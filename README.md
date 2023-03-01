@@ -1,3 +1,3 @@
-# sandbox-projects
+# SANDBOX PROJECTS
 
-This repo will contain personal react projects aimed at practicing cetain topics, or serving as a side projects.
+This repo will contain personal react projects aimed at practicing ceRtain topics, and also serving as side projects.
